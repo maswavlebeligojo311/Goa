@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--Inline და block level ელემენტებს შორის განსხვავება არის ის რომ inline ბს მიაქვთ მხოლოთ საჭირო და შესაძლებელია რომ გვერდი გვერდ ძალიან ბევრი ერთ ზოლზე, როდესაც block level ბი იწელებიან მთელს სიგრძეზე.-->
+    <form>
+                <label for="Username">Username:</label>
+        <input type="text" name="Username" id="Username" value="Name"><br>
+
+                <label for="Password">password:</label>
+        <input type="password" name="password" id="password" value="Password"><br>
+
+                <label for="gmail">gmail:</label>
+        <input type="gmail" name="gmail" id="gmail"><br>
+    </form>
+    <!--ჩვენ ვიყენებთ br თაგს inline ელემენტებზე რადგან გადავიტანოთ შემდეგ ხაზზე.-->
+    <b>Name</b><br>
+    <u>Lastname</u>
+
+
+    <p style="border: 1px double; color: aqua;">Hello</p>
+    <p style="border: 1px dotted;">something</p>
+    <p style="border: 1px dashed;">idk</p>
+    <p style="border: 1px solid;">life</p>
+    <!--ეს პარაგრაპები იწელებიან მთლიან ზოლზე რადგან ისინი არიან Block level ელემენტები-->
+
+
+    <!--ჩვენ არ შეგვიძლია block level ელემენტების inline ელემენტებში ჩაშენება, რადგან მათ აქვთ სხვადასხვა დანიშნულება,
+    block ები იწელებიან მთლიან ხაზზე როდესაც inline ები იკავებენნ მხოლოდ საჭირო ადგილს.
+    თუ ჩვენ მათ ერთმანეთში ჩავაშენებთ კომპიუტერს მისი გაგება გაუჭირდება და ერორს გამოიტანს.-->
+    <i><p>Hi!</p></i>
+    <b><p>Hello!</p></b>
+</body>
+</html>
