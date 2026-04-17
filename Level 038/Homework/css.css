@@ -1,0 +1,70 @@
+#p1 {
+    color: yellow;
+    text-decoration: underline;
+}
+#h1 {
+    color: green;
+    text-decoration: underline blue;
+}
+#h3 {
+    color: blue;
+    text-decoration: underline red;
+    text-decoration: line-through yellow;
+}
+#h5 {
+    color: pink;
+    text-decoration: underline wavy pink;
+
+#p2 {
+    color: orange;
+    text-decoration: underline dotted green;
+}
+#p3 {
+    color: yellow;
+    text-decoration: overline green;
+}
+#h12 {
+    color: green;
+    text-decoration: overline blue;
+}
+#h32 {
+    color: blue;
+    text-decoration: overline dotted red;
+}
+#h52 {
+    color: pink;
+    text-decoration: overline wavy green;
+}
+#p4 {
+    color: orange;
+    text-decoration: overline dotted green;
+}
+#p5 {
+    color: yellow;
+    text-decoration: overline;
+    text-decoration: underline;
+}
+#h13 {
+    color: green;
+    text-decoration: overline blue;
+    text-decoration: underline blue;
+}
+#h32 {
+    color: blue;
+    text-decoration: overline dashed red;
+    text-decoration: underline dashed red;
+}
+#h53 {
+    color: pink;
+    text-decoration: overline wavy green;
+    text-decoration: underline wavy green;
+}
+#p6 {
+    color: orange;
+    text-decoration: overline dotted green;
+    text-decoration: underline dotted green;
+}
+
+.ps {
+    text-shadow: 5px 4px;
+}

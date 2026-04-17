@@ -1,0 +1,23 @@
+.divs {
+    color: brown;
+    background-color: blueviolet;
+    border: 1px dotted;
+}
+
+
+
+#box1 {
+    border: 5px solid;
+    background-color: red;
+    width: 300px; height: 200px;
+}
+#box2 {
+    border: 5px solid;
+    background-color: green;
+    width: 300px; height: 200px
+}
+#box3 {
+    border: 5px solid;
+    background-color: pink;
+    width: 300px; height: 200px
+}

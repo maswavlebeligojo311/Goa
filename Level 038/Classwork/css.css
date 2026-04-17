@@ -1,0 +1,33 @@
+#div1{
+    background-color: #ff0000;
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    font-size: 50%;
+}
+
+#div2{
+    background-color: cornflowerblue;
+    height: 50%;
+    width: 50%;
+}
+
+
+#p1 {
+    color: yellow;
+    text-decoration:underline solid;
+}
+#h1{
+    color: green;
+    text-decoration:underline blue;
+}
+#h3{
+    color: blue;
+    text-decoration:underline dashed red;
+}
+#p2{
+    text-shadow: 5px 6px gray;
+}
+#p3{
+    text-shadow: 5px 6px gray;
+}
