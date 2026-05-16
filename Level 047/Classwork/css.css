@@ -1,0 +1,15 @@
+table, th, td {
+    border: 1px solid gray;
+    border-collapse: collapse;
+    width: 250px;
+    text-align: center;
+}
+
+tr:nth-child(1){
+    background-color: green;
+    color: aliceblue;
+}
+tr:nth-child(5){
+    background-color: rgb(61, 61, 61);
+    color: aliceblue;
+}

@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Goldman:wght@400;700&display=swap');
+.ps {
+    font-weight: bold;
+}
+#p1 {
+    font-family: "Inconsolata";
+}
+#p2 {
+font-family: "Archivo Black";
+}
+#p3 {
+font-family: "Goldman";
+}
+
+
+#h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#h2 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#h3 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.hs {
+    text-shadow: 5 6;
+    font-weight: 900;
+}
