@@ -1,0 +1,77 @@
+#idk {
+    background-color: red;
+    border-color: black;
+    border-radius: 20px;
+}
+#idk:hover {
+    background-color: aqua;
+    border-radius: 5px;
+    border-width: 3px;
+}
+
+
+#list {
+    list-style-type:square;
+    text-align: center;
+    list-style-position: inside;
+}
+
+#form1 {
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+    border: none;
+    height: 25px;
+    width: 50px;
+    text-align: center;
+}
+
+
+#form{
+    text-align: center;
+}
+
+
+#form-idk {
+    color: black;
+    background-color: green;
+    border-radius: 5px;
+}
+
+div{
+    background-color: black;
+    height: 300px;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+
+#div1{
+    background-color: rgb(59, 59, 59);
+    width: 400px;
+    height: 600px;
+    text-align: center;
+    color: white;
+
+}
+
+
+input{
+    background-color: rgb(59, 59, 59);
+    border: none;
+    color: white;
+    border: 1px solid white;
+    width: 70%;
+    height: 40px;
+    border-radius: 5px;
+    font-family: 17px;
+
+}
+
+
+#signup{
+    background-color: rgb(146, 226, 17);
+    font-size: 17px;
+    color: rgb(59, 59, 59);
+}

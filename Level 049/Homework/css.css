@@ -1,15 +1,11 @@
 #one{
-    border: 1px solid black;
-    list-style-position:outside;
+    list-style-type: lower-roman;
+    border: 2px solid;
+    list-style-position: inside;
+    text-align: center;
 }
-
-
 #two{
-    list-style-type:georgian;
-    list-style-position:inside;
-    text-align: end;
-}
-
-#three{
-    list-style-image:url(/dinner.png);
+    list-style-image: url(./apple.png);
+    text-align: center;
+    list-style-position: inside;
 }

@@ -1,0 +1,17 @@
+#one{
+    border: 1px solid black;
+    list-style-position:outside;
+    list-style-type: decimal-leading-zero;
+}
+
+
+#two{
+    list-style-type:georgian;
+    list-style-position:inside;
+    text-align: end;
+}
+
+#three{
+    list-style-image:url(/dinner.png);
+    list-style-position: inside;
+}

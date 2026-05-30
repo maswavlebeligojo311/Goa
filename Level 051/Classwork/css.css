@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
+
+
+button{
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+}
+
+
+
+button:hover{
+    background-color: rgb(168, 168, 168);
+    color: red;
+}
+
+
+input[type="text"]{
+    border: 2px solid red;
+    border-radius: 5px;
+    outline: none;
+
+}
+label{
+    font-family: "Merriweather";
+    font-weight: bolder;
+}
